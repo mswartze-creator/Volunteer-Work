@@ -5,10 +5,10 @@
   <h2> Site Navigation </h2>
 <nav>
     <ul>
-      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Hobbies">Hobbies</a>
-      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Student%20Life">Student Life</a>
-      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Volunteer%20Work">Volunteer Work</a>
-      <li><a href="https://github.com/mswartze-creator/Student-Portfolio/blob/master/Landing%20Page">Landing Page</a>
+     <li><a href="https://mswartze-creator.github.io/Hobbies/">Hobbies</a>
+      <li><a href="https://mswartze-creator.github.io/Student-Life/">Student Life</a>
+      <li><a href="https://mswartze-creator.github.io/Volunteer-Work/">Volunteer Work</a>
+      <li><a href="https://mswartze-creator.github.io/Student-Portfolio/">Landing Page</a>
 
 <h1>Student Life</h1>
 
