@@ -9,8 +9,15 @@
       <li><a href="https://mswartze-creator.github.io/Volunteer-Work/">Volunteer Work</a>
       <li><a href="https://mswartze-creator.github.io/Student-Portfolio/">Landing Page</a>
 
-<h1>Student Life</h1>
+<h1>Contact</h1>
 
-<p> Mason has plenty of opportunities for student life, if you know where to look! I've spent some really amazing afternoons and evenings with friends in coffee shops scattered around Mason.</p>
+<p>For email quieries, contact mrachelle.rs@gmail.com.</p>
+<div>
+  </div>
+  <p>The Art Commmission Agreement will need to be agreed upon before any work is started.</p>
+  
+  <a href="1595283855_02s2ZyyYju_art_commission_agreement.pdf" download>
+  <img src="1595283855_02s2ZyyYju_art_commission_agreement.pdf" alt="Art Commission Agreement">
+</a>
 
 <footer> <h6> Copyright: George Mason University </h6> </footer>
