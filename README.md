@@ -14,7 +14,7 @@
 <p>For email quieries, contact mrachelle.rs@gmail.com.</p>
 <div>
   </div>
-  <p>The Art Commmission Agreement will need to be agreed upon before any work is started.</p>
+  <p>The Art Commmission Agreement will need to be agreed upon before any work is started. The agreement is free to download from the link below. </p>
   
   <a href="1595283855_02s2ZyyYju_art_commission_agreement.pdf" download>
   <img src="1595283855_02s2ZyyYju_art_commission_agreement.pdf" alt="Art Commission Agreement">
